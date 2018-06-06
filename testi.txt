@@ -1,0 +1,1 @@
+Tänne testitiedostoon kirjoitan jotain kiinnostavaa, jotta pystyn testaamaan, miten git toimii.
