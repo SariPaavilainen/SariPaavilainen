@@ -1,3 +1,5 @@
 Tänne testitiedostoon kirjoitan jotain kiinnostavaa, jotta pystyn testaamaan, miten git toimii.
 
 Tässä kirjoitan toisen rivin jotta voin testata gitin toimintaa.
+
+seuraava rivitesti vielä!
